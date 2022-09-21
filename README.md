@@ -1,4 +1,4 @@
-### Hi I am gnake 👋
+<h1 align="center";style="color: MediumPurple"> Hi I am gnake 👋 </h1>
 
 <!--
 **gnake/gnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
