@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I am gnake 👋
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnake&show_icons=true&theme=radical)
 
 <!--
 **gnake/gnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
